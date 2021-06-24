@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Aplicacion que lea 10 numeros enteros y genera\Aplicacion que lea 10 numeros enteros y genera\bin\Debug\netcoreapp3.1\Aplicacion que lea 10 numeros enteros y genera.exe
+C:\Users\HP\source\repos\Aplicacion que lea 10 numeros enteros y genera\Aplicacion que lea 10 numeros enteros y genera\bin\Debug\netcoreapp3.1\Aplicacion que lea 10 numeros enteros y genera.deps.json
+C:\Users\HP\source\repos\Aplicacion que lea 10 numeros enteros y genera\Aplicacion que lea 10 numeros enteros y genera\bin\Debug\netcoreapp3.1\Aplicacion que lea 10 numeros enteros y genera.runtimeconfig.json
+C:\Users\HP\source\repos\Aplicacion que lea 10 numeros enteros y genera\Aplicacion que lea 10 numeros enteros y genera\bin\Debug\netcoreapp3.1\Aplicacion que lea 10 numeros enteros y genera.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Aplicacion que lea 10 numeros enteros y genera\Aplicacion que lea 10 numeros enteros y genera\bin\Debug\netcoreapp3.1\Aplicacion que lea 10 numeros enteros y genera.dll
+C:\Users\HP\source\repos\Aplicacion que lea 10 numeros enteros y genera\Aplicacion que lea 10 numeros enteros y genera\bin\Debug\netcoreapp3.1\Aplicacion que lea 10 numeros enteros y genera.pdb
+C:\Users\HP\source\repos\Aplicacion que lea 10 numeros enteros y genera\Aplicacion que lea 10 numeros enteros y genera\obj\Debug\netcoreapp3.1\Aplicacion que lea 10 numeros enteros y genera.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Aplicacion que lea 10 numeros enteros y genera\Aplicacion que lea 10 numeros enteros y genera\obj\Debug\netcoreapp3.1\Aplicacion que lea 10 numeros enteros y genera.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Aplicacion que lea 10 numeros enteros y genera\Aplicacion que lea 10 numeros enteros y genera\obj\Debug\netcoreapp3.1\Aplicacion que lea 10 numeros enteros y genera.AssemblyInfo.cs
+C:\Users\HP\source\repos\Aplicacion que lea 10 numeros enteros y genera\Aplicacion que lea 10 numeros enteros y genera\obj\Debug\netcoreapp3.1\Aplicacion que lea 10 numeros enteros y genera.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Aplicacion que lea 10 numeros enteros y genera\Aplicacion que lea 10 numeros enteros y genera\obj\Debug\netcoreapp3.1\Aplicacion que lea 10 numeros enteros y genera.dll
+C:\Users\HP\source\repos\Aplicacion que lea 10 numeros enteros y genera\Aplicacion que lea 10 numeros enteros y genera\obj\Debug\netcoreapp3.1\Aplicacion que lea 10 numeros enteros y genera.pdb
+C:\Users\HP\source\repos\Aplicacion que lea 10 numeros enteros y genera\Aplicacion que lea 10 numeros enteros y genera\obj\Debug\netcoreapp3.1\Aplicacion que lea 10 numeros enteros y genera.genruntimeconfig.cache

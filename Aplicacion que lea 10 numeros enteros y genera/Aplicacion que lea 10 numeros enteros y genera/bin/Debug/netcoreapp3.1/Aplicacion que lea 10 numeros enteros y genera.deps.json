@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aplicacion que lea 10 numeros enteros y genera/1.0.0": {
+        "runtime": {
+          "Aplicacion que lea 10 numeros enteros y genera.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aplicacion que lea 10 numeros enteros y genera/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
