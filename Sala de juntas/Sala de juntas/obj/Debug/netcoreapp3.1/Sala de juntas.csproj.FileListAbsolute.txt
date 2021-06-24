@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Sala de juntas\Sala de juntas\bin\Debug\netcoreapp3.1\Sala de juntas.exe
+C:\Users\HP\source\repos\Sala de juntas\Sala de juntas\bin\Debug\netcoreapp3.1\Sala de juntas.deps.json
+C:\Users\HP\source\repos\Sala de juntas\Sala de juntas\bin\Debug\netcoreapp3.1\Sala de juntas.runtimeconfig.json
+C:\Users\HP\source\repos\Sala de juntas\Sala de juntas\bin\Debug\netcoreapp3.1\Sala de juntas.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Sala de juntas\Sala de juntas\bin\Debug\netcoreapp3.1\Sala de juntas.dll
+C:\Users\HP\source\repos\Sala de juntas\Sala de juntas\bin\Debug\netcoreapp3.1\Sala de juntas.pdb
+C:\Users\HP\source\repos\Sala de juntas\Sala de juntas\obj\Debug\netcoreapp3.1\Sala de juntas.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Sala de juntas\Sala de juntas\obj\Debug\netcoreapp3.1\Sala de juntas.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Sala de juntas\Sala de juntas\obj\Debug\netcoreapp3.1\Sala de juntas.AssemblyInfo.cs
+C:\Users\HP\source\repos\Sala de juntas\Sala de juntas\obj\Debug\netcoreapp3.1\Sala de juntas.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Sala de juntas\Sala de juntas\obj\Debug\netcoreapp3.1\Sala de juntas.dll
+C:\Users\HP\source\repos\Sala de juntas\Sala de juntas\obj\Debug\netcoreapp3.1\Sala de juntas.pdb
+C:\Users\HP\source\repos\Sala de juntas\Sala de juntas\obj\Debug\netcoreapp3.1\Sala de juntas.genruntimeconfig.cache

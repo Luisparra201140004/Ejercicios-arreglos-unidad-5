@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sala de juntas/1.0.0": {
+        "runtime": {
+          "Sala de juntas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sala de juntas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
