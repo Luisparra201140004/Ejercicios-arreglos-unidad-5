@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Ordenamiento de 20 numeros menor a mayor\Ordenamiento de 20 numeros menor a mayor\bin\Debug\netcoreapp3.1\Ordenamiento de 20 numeros menor a mayor.exe
+C:\Users\HP\source\repos\Ordenamiento de 20 numeros menor a mayor\Ordenamiento de 20 numeros menor a mayor\bin\Debug\netcoreapp3.1\Ordenamiento de 20 numeros menor a mayor.deps.json
+C:\Users\HP\source\repos\Ordenamiento de 20 numeros menor a mayor\Ordenamiento de 20 numeros menor a mayor\bin\Debug\netcoreapp3.1\Ordenamiento de 20 numeros menor a mayor.runtimeconfig.json
+C:\Users\HP\source\repos\Ordenamiento de 20 numeros menor a mayor\Ordenamiento de 20 numeros menor a mayor\bin\Debug\netcoreapp3.1\Ordenamiento de 20 numeros menor a mayor.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Ordenamiento de 20 numeros menor a mayor\Ordenamiento de 20 numeros menor a mayor\bin\Debug\netcoreapp3.1\Ordenamiento de 20 numeros menor a mayor.dll
+C:\Users\HP\source\repos\Ordenamiento de 20 numeros menor a mayor\Ordenamiento de 20 numeros menor a mayor\bin\Debug\netcoreapp3.1\Ordenamiento de 20 numeros menor a mayor.pdb
+C:\Users\HP\source\repos\Ordenamiento de 20 numeros menor a mayor\Ordenamiento de 20 numeros menor a mayor\obj\Debug\netcoreapp3.1\Ordenamiento de 20 numeros menor a mayor.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Ordenamiento de 20 numeros menor a mayor\Ordenamiento de 20 numeros menor a mayor\obj\Debug\netcoreapp3.1\Ordenamiento de 20 numeros menor a mayor.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Ordenamiento de 20 numeros menor a mayor\Ordenamiento de 20 numeros menor a mayor\obj\Debug\netcoreapp3.1\Ordenamiento de 20 numeros menor a mayor.AssemblyInfo.cs
+C:\Users\HP\source\repos\Ordenamiento de 20 numeros menor a mayor\Ordenamiento de 20 numeros menor a mayor\obj\Debug\netcoreapp3.1\Ordenamiento de 20 numeros menor a mayor.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Ordenamiento de 20 numeros menor a mayor\Ordenamiento de 20 numeros menor a mayor\obj\Debug\netcoreapp3.1\Ordenamiento de 20 numeros menor a mayor.dll
+C:\Users\HP\source\repos\Ordenamiento de 20 numeros menor a mayor\Ordenamiento de 20 numeros menor a mayor\obj\Debug\netcoreapp3.1\Ordenamiento de 20 numeros menor a mayor.pdb
+C:\Users\HP\source\repos\Ordenamiento de 20 numeros menor a mayor\Ordenamiento de 20 numeros menor a mayor\obj\Debug\netcoreapp3.1\Ordenamiento de 20 numeros menor a mayor.genruntimeconfig.cache
