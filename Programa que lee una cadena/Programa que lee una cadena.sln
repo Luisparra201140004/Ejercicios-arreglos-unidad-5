@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programa que lee una cadena", "Programa que lee una cadena\Programa que lee una cadena.csproj", "{0D0AABC7-B021-44F8-A8CF-4B1327460E84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D0AABC7-B021-44F8-A8CF-4B1327460E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D0AABC7-B021-44F8-A8CF-4B1327460E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D0AABC7-B021-44F8-A8CF-4B1327460E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D0AABC7-B021-44F8-A8CF-4B1327460E84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {832B91D1-89F4-4D34-8EA2-D5EEB4E60CDD}
+	EndGlobalSection
+EndGlobal

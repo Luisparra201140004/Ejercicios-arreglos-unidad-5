@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Programa que lee una cadena\Programa que lee una cadena\bin\Debug\netcoreapp3.1\Programa que lee una cadena.exe
+C:\Users\HP\source\repos\Programa que lee una cadena\Programa que lee una cadena\bin\Debug\netcoreapp3.1\Programa que lee una cadena.deps.json
+C:\Users\HP\source\repos\Programa que lee una cadena\Programa que lee una cadena\bin\Debug\netcoreapp3.1\Programa que lee una cadena.runtimeconfig.json
+C:\Users\HP\source\repos\Programa que lee una cadena\Programa que lee una cadena\bin\Debug\netcoreapp3.1\Programa que lee una cadena.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Programa que lee una cadena\Programa que lee una cadena\bin\Debug\netcoreapp3.1\Programa que lee una cadena.dll
+C:\Users\HP\source\repos\Programa que lee una cadena\Programa que lee una cadena\bin\Debug\netcoreapp3.1\Programa que lee una cadena.pdb
+C:\Users\HP\source\repos\Programa que lee una cadena\Programa que lee una cadena\obj\Debug\netcoreapp3.1\Programa que lee una cadena.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Programa que lee una cadena\Programa que lee una cadena\obj\Debug\netcoreapp3.1\Programa que lee una cadena.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Programa que lee una cadena\Programa que lee una cadena\obj\Debug\netcoreapp3.1\Programa que lee una cadena.AssemblyInfo.cs
+C:\Users\HP\source\repos\Programa que lee una cadena\Programa que lee una cadena\obj\Debug\netcoreapp3.1\Programa que lee una cadena.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Programa que lee una cadena\Programa que lee una cadena\obj\Debug\netcoreapp3.1\Programa que lee una cadena.dll
+C:\Users\HP\source\repos\Programa que lee una cadena\Programa que lee una cadena\obj\Debug\netcoreapp3.1\Programa que lee una cadena.pdb
+C:\Users\HP\source\repos\Programa que lee una cadena\Programa que lee una cadena\obj\Debug\netcoreapp3.1\Programa que lee una cadena.genruntimeconfig.cache
